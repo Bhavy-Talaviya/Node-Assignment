@@ -1,0 +1,15 @@
+{
+  "name": "assigment-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Assigment-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.2"
+  }
+}
